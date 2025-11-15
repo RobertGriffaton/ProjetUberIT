@@ -1,0 +1,41 @@
+restaurant,latitude,longitude,item,sku,price_eur,prep_min
+Sushi Mori,48.8566,2.3522,Maki saumon,sushi_mori.maki_saumon,6.90,8
+Sushi Mori,48.8566,2.3522,California thon,sushi_mori.california_thon,7.50,10
+Sushi Mori,48.8566,2.3522,Tempura crevette,sushi_mori.tempura_crevette,8.90,12
+Sushi Mori,48.8566,2.3522,Ramen miso,sushi_mori.ramen_miso,9.90,15
+Sushi Mori,48.8566,2.3522,Boisson thé vert,sushi_mori.the_vert,2.50,2
+Pizza Lino,48.8610,2.3450,Margherita,pizza_lino.margherita,9.90,12
+Pizza Lino,48.8610,2.3450,Regina,pizza_lino.regina,11.50,15
+Pizza Lino,48.8610,2.3450,Quattro Formaggi,pizza_lino.4formaggi,12.00,14
+Pizza Lino,48.8610,2.3450,Calzone,pizza_lino.calzone,10.90,16
+Pizza Lino,48.8610,2.3450,Tiramisu maison,pizza_lino.tiramisu,5.50,5
+Burger Max,48.8700,2.3300,Cheeseburger,burger_max.cheese,10.50,10
+Burger Max,48.8700,2.3300,Bacon Burger,burger_max.bacon,11.50,12
+Burger Max,48.8700,2.3300,Veggie Burger,burger_max.veggie,9.90,9
+Burger Max,48.8700,2.3300,Maxi Frites,burger_max.frites,4.00,5
+Burger Max,48.8700,2.3300,Coca-Cola 33cl,burger_max.coca,2.80,1
+Taco Loco,48.8532,2.3499,Tacos poulet,taco_loco.poulet,8.50,10
+Taco Loco,48.8532,2.3499,Tacos bœuf,taco_loco.boeuf,8.90,11
+Taco Loco,48.8532,2.3499,Burrito végétarien,taco_loco.burrito_vege,9.50,12
+Taco Loco,48.8532,2.3499,Nachos fromage,taco_loco.nachos,5.00,6
+Taco Loco,48.8532,2.3499,Margarita sans alcool,taco_loco.margarita,3.90,2
+Pasta Mia,48.8602,2.3410,Spaghetti carbonara,pasta_mia.carbonara,10.90,13
+Pasta Mia,48.8602,2.3410,Tagliatelle pesto,pasta_mia.pesto,11.50,14
+Pasta Mia,48.8602,2.3410,Lasagnes bolognaise,pasta_mia.lasagnes,12.00,16
+Pasta Mia,48.8602,2.3410,Raviolis ricotta,pasta_mia.raviolis,11.00,12
+Pasta Mia,48.8602,2.3410,Panna cotta fruits rouges,pasta_mia.pannacotta,5.50,4
+Curry House,48.8688,2.3470,Butter Chicken,curry_house.butter_chicken,13.50,18
+Curry House,48.8688,2.3470,Lamb Tikka Masala,curry_house.lamb_tikka,14.50,20
+Curry House,48.8688,2.3470,Paneer Curry,curry_house.paneer,12.00,15
+Curry House,48.8688,2.3470,Riz basmati,curry_house.riz,3.00,5
+Curry House,48.8688,2.3470,Naan fromage,curry_house.naan,2.50,6
+Salad Factory,48.8635,2.3540,Caesar Salad,salad_factory.caesar,9.00,8
+Salad Factory,48.8635,2.3540,Greek Salad,salad_factory.greek,8.50,7
+Salad Factory,48.8635,2.3540,Bowl quinoa,salad_factory.quinoa,9.90,9
+Salad Factory,48.8635,2.3540,Smoothie mangue,salad_factory.smoothie,4.50,3
+Salad Factory,48.8635,2.3540,Cheesecake,salad_factory.cheesecake,5.00,5
+Wrap & Go,48.8720,2.3390,Wrap poulet,wrap_go.poulet,7.90,8
+Wrap & Go,48.8720,2.3390,Wrap saumon,wrap_go.saumon,8.50,9
+Wrap & Go,48.8720,2.3390,Wrap végétarien,wrap_go.vege,7.50,7
+Wrap & Go,48.8720,2.3390,Chips maison,wrap_go.chips,3.00,3
+Wrap & Go,48.8720,2.3390,Cookie choco,wrap_go.cookie,2.50,2
